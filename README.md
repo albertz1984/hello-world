@@ -1,6 +1,4 @@
-# hello-world
-This is a personal repo for learning git.
+Now I am editing this README file.
+Git says I have unmerged paths.
+This is a repo just for learning git.
 Masters like you won't be interested.
-This is a test
-This is another test.
-Do I need sublime?
